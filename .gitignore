@@ -1,0 +1,9 @@
+.vs
+*.pdb
+tmp
+*.obj
+*.lib
+*.exp
+*.aps
+*.dll
+*.exe
